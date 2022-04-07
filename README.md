@@ -20,5 +20,5 @@ But in Japanese, you would use subject-object-verb order:
 The Language Inheritance package has three Java files:
 
 1. Language.java: for the Language parent class, which serves as the template for all languages.
-1. Mayan.java: for Mayan, a child class of Language modeled after the Mayan language family.
-1. SinoTibetan.java: for SinoTibetan, a child class of Language modeled after the Sino-Tibetan language family.
+1. Mayan.java: for Mayan, a child class of Language modeled after the Mayan language family ([Source](https://en.wikipedia.org/wiki/Mayan_languages)).
+1. SinoTibetan.java: for SinoTibetan, a child class of Language modeled after the Sino-Tibetan language family ([Source](https://en.wikipedia.org/wiki/Sino-Tibetan_languages)).
